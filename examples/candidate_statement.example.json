@@ -1,0 +1,16 @@
+{
+  "statement": "候选示例-西湾民宿30分钟",
+  "claim": "典型时间节省",
+  "minutes": 30,
+  "reliability": 0.5,
+  "confidence": 0.9,
+  "version": "v1",
+  "area": "西湾",
+  "page": "home",
+  "segment": "total",
+  "scenario_filters": {
+    "pickup": "民宿",
+    "window": "傍晚"
+  },
+  "note": "编辑提交候选文案时复制本模板；scenario_filters 留空表示不额外收窄旅客场景。"
+}

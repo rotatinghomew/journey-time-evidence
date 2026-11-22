@@ -1,0 +1,30 @@
+[
+  {
+    "page": "home",
+    "route": "旅游首页",
+    "areas": [
+      "西湾",
+      "东岸"
+    ],
+    "show_exceptions": false,
+    "accepted": null
+  },
+  {
+    "page": "home",
+    "route": "合作酒店首页",
+    "areas": [
+      "西湾"
+    ],
+    "show_exceptions": false,
+    "accepted": "s1"
+  },
+  {
+    "page": "detail",
+    "route": "产品详情",
+    "areas": [
+      "东岸"
+    ],
+    "show_exceptions": true,
+    "accepted": "s2"
+  }
+]

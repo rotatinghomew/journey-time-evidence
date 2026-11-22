@@ -1,0 +1,374 @@
+[
+  {
+    "pair": "M00",
+    "journey": "M000",
+    "basis": "班窗可能偏移",
+    "weight": 0.5
+  },
+  {
+    "pair": "M00",
+    "journey": "M001",
+    "basis": "班窗可能偏移",
+    "weight": 0.5
+  },
+  {
+    "pair": "M01",
+    "journey": "M010",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M01",
+    "journey": "M011",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M02",
+    "journey": "M020",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M02",
+    "journey": "M021",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M03",
+    "journey": "M030",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M03",
+    "journey": "M031",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M04",
+    "journey": "M040",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M04",
+    "journey": "M041",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M05",
+    "journey": "M050",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M05",
+    "journey": "M051",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M06",
+    "journey": "M060",
+    "basis": "班窗相同",
+    "weight": 0.5
+  },
+  {
+    "pair": "M06",
+    "journey": "M061",
+    "basis": "班窗相同",
+    "weight": 0.5
+  },
+  {
+    "pair": "M07",
+    "journey": "M070",
+    "basis": "班窗可能偏移",
+    "weight": 1.0
+  },
+  {
+    "pair": "M07",
+    "journey": "M071",
+    "basis": "班窗可能偏移",
+    "weight": 1.0
+  },
+  {
+    "pair": "M08",
+    "journey": "M080",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M08",
+    "journey": "M081",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M09",
+    "journey": "M090",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M09",
+    "journey": "M091",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M10",
+    "journey": "M101",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M11",
+    "journey": "M110",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M11",
+    "journey": "M111",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M12",
+    "journey": "M120",
+    "basis": "班窗相同",
+    "weight": 0.5
+  },
+  {
+    "pair": "M12",
+    "journey": "M121",
+    "basis": "班窗相同",
+    "weight": 0.5
+  },
+  {
+    "pair": "M13",
+    "journey": "M130",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M13",
+    "journey": "M131",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M14",
+    "journey": "M140",
+    "basis": "班窗可能偏移",
+    "weight": 1.0
+  },
+  {
+    "pair": "M14",
+    "journey": "M141",
+    "basis": "班窗可能偏移",
+    "weight": 1.0
+  },
+  {
+    "pair": "M15",
+    "journey": "M150",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M15",
+    "journey": "M151",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M16",
+    "journey": "M160",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M16",
+    "journey": "M161",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M17",
+    "journey": "M170",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M17",
+    "journey": "M171",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M18",
+    "journey": "M180",
+    "basis": "班窗相同",
+    "weight": 0.5
+  },
+  {
+    "pair": "M18",
+    "journey": "M181",
+    "basis": "班窗相同",
+    "weight": 0.5
+  },
+  {
+    "pair": "M19",
+    "journey": "M190",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M19",
+    "journey": "M191",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M20",
+    "journey": "M200",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M20",
+    "journey": "M201",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M21",
+    "journey": "M210",
+    "basis": "班窗可能偏移",
+    "weight": 1.0
+  },
+  {
+    "pair": "M21",
+    "journey": "M211",
+    "basis": "班窗可能偏移",
+    "weight": 1.0
+  },
+  {
+    "pair": "M22",
+    "journey": "M220",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M22",
+    "journey": "M221",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M23",
+    "journey": "M230",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M23",
+    "journey": "M231",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M24",
+    "journey": "M240",
+    "basis": "班窗相同",
+    "weight": 0.5
+  },
+  {
+    "pair": "M24",
+    "journey": "M241",
+    "basis": "班窗相同",
+    "weight": 0.5
+  },
+  {
+    "pair": "M25",
+    "journey": "M250",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M25",
+    "journey": "M251",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M26",
+    "journey": "M261",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M27",
+    "journey": "M270",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M27",
+    "journey": "M271",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M28",
+    "journey": "M280",
+    "basis": "班窗可能偏移",
+    "weight": 1.0
+  },
+  {
+    "pair": "M28",
+    "journey": "M281",
+    "basis": "班窗可能偏移",
+    "weight": 1.0
+  },
+  {
+    "pair": "M29",
+    "journey": "M290",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M29",
+    "journey": "M291",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M30",
+    "journey": "M300",
+    "basis": "班窗相同",
+    "weight": 0.5
+  },
+  {
+    "pair": "M30",
+    "journey": "M301",
+    "basis": "班窗相同",
+    "weight": 0.5
+  },
+  {
+    "pair": "M31",
+    "journey": "M310",
+    "basis": "班窗相同",
+    "weight": 1.0
+  },
+  {
+    "pair": "M31",
+    "journey": "M311",
+    "basis": "班窗相同",
+    "weight": 1.0
+  }
+]

@@ -1,0 +1,2522 @@
+[
+  {
+    "event": "M000-0",
+    "journey": "M000",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 512,
+    "visible_day": "2026-06-02",
+    "revision": 1
+  },
+  {
+    "event": "M000-1",
+    "journey": "M000",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 563,
+    "clock_min_hi": 567,
+    "visible_day": "2026-06-02",
+    "revision": 1
+  },
+  {
+    "event": "M000-2",
+    "journey": "M000",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 888,
+    "clock_min_hi": 892,
+    "visible_day": "2026-06-02",
+    "revision": 1
+  },
+  {
+    "event": "M000-3",
+    "journey": "M000",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 940,
+    "clock_min_hi": 944,
+    "visible_day": "2026-06-02",
+    "revision": 1
+  },
+  {
+    "event": "M001-0",
+    "journey": "M001",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 512,
+    "visible_day": "2026-06-02",
+    "revision": 1
+  },
+  {
+    "event": "M001-1",
+    "journey": "M001",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 545,
+    "clock_min_hi": 549,
+    "visible_day": "2026-06-02",
+    "revision": 1
+  },
+  {
+    "event": "M001-2",
+    "journey": "M001",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 888,
+    "clock_min_hi": 892,
+    "visible_day": "2026-06-02",
+    "revision": 1
+  },
+  {
+    "event": "M001-3",
+    "journey": "M001",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 919,
+    "clock_min_hi": 923,
+    "visible_day": "2026-06-02",
+    "revision": 1
+  },
+  {
+    "event": "M010-0",
+    "journey": "M010",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 513,
+    "visible_day": "2026-06-03",
+    "revision": 1
+  },
+  {
+    "event": "M010-1",
+    "journey": "M010",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 564,
+    "clock_min_hi": 569,
+    "visible_day": "2026-06-03",
+    "revision": 1
+  },
+  {
+    "event": "M010-2",
+    "journey": "M010",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 889,
+    "clock_min_hi": 894,
+    "visible_day": "2026-06-03",
+    "revision": 1
+  },
+  {
+    "event": "M010-3",
+    "journey": "M010",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 942,
+    "clock_min_hi": 947,
+    "visible_day": "2026-06-03",
+    "revision": 1
+  },
+  {
+    "event": "M011-0",
+    "journey": "M011",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 513,
+    "visible_day": "2026-06-03",
+    "revision": 1
+  },
+  {
+    "event": "M011-1",
+    "journey": "M011",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 546,
+    "clock_min_hi": 551,
+    "visible_day": "2026-06-03",
+    "revision": 1
+  },
+  {
+    "event": "M011-2",
+    "journey": "M011",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 889,
+    "clock_min_hi": 894,
+    "visible_day": "2026-06-03",
+    "revision": 1
+  },
+  {
+    "event": "M011-3",
+    "journey": "M011",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 921,
+    "clock_min_hi": 926,
+    "visible_day": "2026-06-03",
+    "revision": 1
+  },
+  {
+    "event": "M020-0",
+    "journey": "M020",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 514,
+    "visible_day": "2026-06-04",
+    "revision": 1
+  },
+  {
+    "event": "M020-1",
+    "journey": "M020",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 565,
+    "clock_min_hi": 571,
+    "visible_day": "2026-06-04",
+    "revision": 1
+  },
+  {
+    "event": "M020-2",
+    "journey": "M020",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 890,
+    "clock_min_hi": 896,
+    "visible_day": "2026-06-04",
+    "revision": 1
+  },
+  {
+    "event": "M020-3",
+    "journey": "M020",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 944,
+    "clock_min_hi": 950,
+    "visible_day": "2026-06-04",
+    "revision": 1
+  },
+  {
+    "event": "M021-0",
+    "journey": "M021",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 514,
+    "visible_day": "2026-06-04",
+    "revision": 1
+  },
+  {
+    "event": "M021-1",
+    "journey": "M021",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 547,
+    "clock_min_hi": 553,
+    "visible_day": "2026-06-04",
+    "revision": 1
+  },
+  {
+    "event": "M021-2",
+    "journey": "M021",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 890,
+    "clock_min_hi": 896,
+    "visible_day": "2026-06-04",
+    "revision": 1
+  },
+  {
+    "event": "M021-3",
+    "journey": "M021",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 923,
+    "clock_min_hi": 929,
+    "visible_day": "2026-06-04",
+    "revision": 1
+  },
+  {
+    "event": "M030-0",
+    "journey": "M030",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 515,
+    "visible_day": "2026-06-05",
+    "revision": 1
+  },
+  {
+    "event": "M030-1",
+    "journey": "M030",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 566,
+    "clock_min_hi": 573,
+    "visible_day": "2026-06-05",
+    "revision": 1
+  },
+  {
+    "event": "M030-2",
+    "journey": "M030",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 891,
+    "clock_min_hi": 898,
+    "visible_day": "2026-06-05",
+    "revision": 1
+  },
+  {
+    "event": "M030-3",
+    "journey": "M030",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 946,
+    "clock_min_hi": 953,
+    "visible_day": "2026-06-05",
+    "revision": 1
+  },
+  {
+    "event": "M031-0",
+    "journey": "M031",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 515,
+    "visible_day": "2026-06-05",
+    "revision": 1
+  },
+  {
+    "event": "M031-1",
+    "journey": "M031",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 548,
+    "clock_min_hi": 555,
+    "visible_day": "2026-06-05",
+    "revision": 1
+  },
+  {
+    "event": "M031-2",
+    "journey": "M031",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 891,
+    "clock_min_hi": 898,
+    "visible_day": "2026-06-05",
+    "revision": 1
+  },
+  {
+    "event": "M031-3",
+    "journey": "M031",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 925,
+    "clock_min_hi": 932,
+    "visible_day": "2026-06-05",
+    "revision": 1
+  },
+  {
+    "event": "M040-0",
+    "journey": "M040",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 512,
+    "visible_day": "2026-06-06",
+    "revision": 1
+  },
+  {
+    "event": "M040-1",
+    "journey": "M040",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 567,
+    "clock_min_hi": 571,
+    "visible_day": "2026-06-06",
+    "revision": 1
+  },
+  {
+    "event": "M040-2",
+    "journey": "M040",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 892,
+    "clock_min_hi": 896,
+    "visible_day": "2026-06-06",
+    "revision": 1
+  },
+  {
+    "event": "M040-3",
+    "journey": "M040",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 948,
+    "clock_min_hi": 952,
+    "visible_day": "2026-06-06",
+    "revision": 1
+  },
+  {
+    "event": "M041-0",
+    "journey": "M041",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 512,
+    "visible_day": "2026-06-06",
+    "revision": 1
+  },
+  {
+    "event": "M041-1",
+    "journey": "M041",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 549,
+    "clock_min_hi": 553,
+    "visible_day": "2026-06-06",
+    "revision": 1
+  },
+  {
+    "event": "M041-2",
+    "journey": "M041",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 892,
+    "clock_min_hi": 896,
+    "visible_day": "2026-06-06",
+    "revision": 1
+  },
+  {
+    "event": "M041-3",
+    "journey": "M041",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 927,
+    "clock_min_hi": 931,
+    "visible_day": "2026-06-06",
+    "revision": 1
+  },
+  {
+    "event": "M050-0",
+    "journey": "M050",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 513,
+    "visible_day": "2026-06-07",
+    "revision": 1
+  },
+  {
+    "event": "M050-1",
+    "journey": "M050",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 568,
+    "clock_min_hi": 573,
+    "visible_day": "2026-06-07",
+    "revision": 1
+  },
+  {
+    "event": "M050-2",
+    "journey": "M050",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 893,
+    "clock_min_hi": 898,
+    "visible_day": "2026-06-07",
+    "revision": 1
+  },
+  {
+    "event": "M050-3",
+    "journey": "M050",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 950,
+    "clock_min_hi": 955,
+    "visible_day": "2026-06-07",
+    "revision": 1
+  },
+  {
+    "event": "M051-0",
+    "journey": "M051",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 513,
+    "visible_day": "2026-06-07",
+    "revision": 1
+  },
+  {
+    "event": "M051-1",
+    "journey": "M051",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 550,
+    "clock_min_hi": 555,
+    "visible_day": "2026-06-07",
+    "revision": 1
+  },
+  {
+    "event": "M051-2",
+    "journey": "M051",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 893,
+    "clock_min_hi": 898,
+    "visible_day": "2026-06-07",
+    "revision": 1
+  },
+  {
+    "event": "M051-2",
+    "journey": "M051",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 899,
+    "clock_min_hi": 907,
+    "visible_day": "2026-06-13",
+    "revision": 2
+  },
+  {
+    "event": "M051-3",
+    "journey": "M051",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 929,
+    "clock_min_hi": 934,
+    "visible_day": "2026-06-07",
+    "revision": 1
+  },
+  {
+    "event": "M051-3",
+    "journey": "M051",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 935,
+    "clock_min_hi": 943,
+    "visible_day": "2026-06-13",
+    "revision": 2
+  },
+  {
+    "event": "M060-0",
+    "journey": "M060",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 514,
+    "visible_day": "2026-06-08",
+    "revision": 1
+  },
+  {
+    "event": "M060-1",
+    "journey": "M060",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 569,
+    "clock_min_hi": 575,
+    "visible_day": "2026-06-08",
+    "revision": 1
+  },
+  {
+    "event": "M060-2",
+    "journey": "M060",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 894,
+    "clock_min_hi": 900,
+    "visible_day": "2026-06-08",
+    "revision": 1
+  },
+  {
+    "event": "M060-3",
+    "journey": "M060",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 952,
+    "clock_min_hi": 958,
+    "visible_day": "2026-06-08",
+    "revision": 1
+  },
+  {
+    "event": "M061-0",
+    "journey": "M061",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 514,
+    "visible_day": "2026-06-08",
+    "revision": 1
+  },
+  {
+    "event": "M061-1",
+    "journey": "M061",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 551,
+    "clock_min_hi": 557,
+    "visible_day": "2026-06-08",
+    "revision": 1
+  },
+  {
+    "event": "M061-2",
+    "journey": "M061",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 894,
+    "clock_min_hi": 900,
+    "visible_day": "2026-06-08",
+    "revision": 1
+  },
+  {
+    "event": "M061-3",
+    "journey": "M061",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 931,
+    "clock_min_hi": 937,
+    "visible_day": "2026-06-08",
+    "revision": 1
+  },
+  {
+    "event": "M070-0",
+    "journey": "M070",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 515,
+    "visible_day": "2026-06-09",
+    "revision": 1
+  },
+  {
+    "event": "M070-1",
+    "journey": "M070",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 570,
+    "clock_min_hi": 577,
+    "visible_day": "2026-06-09",
+    "revision": 1
+  },
+  {
+    "event": "M070-2",
+    "journey": "M070",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 895,
+    "clock_min_hi": 902,
+    "visible_day": "2026-06-09",
+    "revision": 1
+  },
+  {
+    "event": "M070-3",
+    "journey": "M070",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 954,
+    "clock_min_hi": 961,
+    "visible_day": "2026-06-09",
+    "revision": 1
+  },
+  {
+    "event": "M071-0",
+    "journey": "M071",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 515,
+    "visible_day": "2026-06-09",
+    "revision": 1
+  },
+  {
+    "event": "M071-1",
+    "journey": "M071",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 552,
+    "clock_min_hi": 559,
+    "visible_day": "2026-06-09",
+    "revision": 1
+  },
+  {
+    "event": "M071-2",
+    "journey": "M071",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 895,
+    "clock_min_hi": 902,
+    "visible_day": "2026-06-09",
+    "revision": 1
+  },
+  {
+    "event": "M071-3",
+    "journey": "M071",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 933,
+    "clock_min_hi": 940,
+    "visible_day": "2026-06-09",
+    "revision": 1
+  },
+  {
+    "event": "M080-0",
+    "journey": "M080",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 512,
+    "visible_day": "2026-06-10",
+    "revision": 1
+  },
+  {
+    "event": "M080-1",
+    "journey": "M080",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 571,
+    "clock_min_hi": 575,
+    "visible_day": "2026-06-10",
+    "revision": 1
+  },
+  {
+    "event": "M080-2",
+    "journey": "M080",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 896,
+    "clock_min_hi": 900,
+    "visible_day": "2026-06-10",
+    "revision": 1
+  },
+  {
+    "event": "M080-3",
+    "journey": "M080",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 956,
+    "clock_min_hi": 960,
+    "visible_day": "2026-06-10",
+    "revision": 1
+  },
+  {
+    "event": "M081-0",
+    "journey": "M081",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 512,
+    "visible_day": "2026-06-10",
+    "revision": 1
+  },
+  {
+    "event": "M081-1",
+    "journey": "M081",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 553,
+    "clock_min_hi": 557,
+    "visible_day": "2026-06-10",
+    "revision": 1
+  },
+  {
+    "event": "M081-2",
+    "journey": "M081",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 896,
+    "clock_min_hi": 900,
+    "visible_day": "2026-06-10",
+    "revision": 1
+  },
+  {
+    "event": "M090-0",
+    "journey": "M090",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 513,
+    "visible_day": "2026-06-11",
+    "revision": 1
+  },
+  {
+    "event": "M090-1",
+    "journey": "M090",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 572,
+    "clock_min_hi": 577,
+    "visible_day": "2026-06-11",
+    "revision": 1
+  },
+  {
+    "event": "M090-2",
+    "journey": "M090",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 897,
+    "clock_min_hi": 902,
+    "visible_day": "2026-06-11",
+    "revision": 1
+  },
+  {
+    "event": "M090-3",
+    "journey": "M090",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 958,
+    "clock_min_hi": 963,
+    "visible_day": "2026-06-11",
+    "revision": 1
+  },
+  {
+    "event": "M091-0",
+    "journey": "M091",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 513,
+    "visible_day": "2026-06-11",
+    "revision": 1
+  },
+  {
+    "event": "M091-1",
+    "journey": "M091",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 554,
+    "clock_min_hi": 559,
+    "visible_day": "2026-06-11",
+    "revision": 1
+  },
+  {
+    "event": "M091-2",
+    "journey": "M091",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 897,
+    "clock_min_hi": 902,
+    "visible_day": "2026-06-11",
+    "revision": 1
+  },
+  {
+    "event": "M091-3",
+    "journey": "M091",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 937,
+    "clock_min_hi": 942,
+    "visible_day": "2026-06-11",
+    "revision": 1
+  },
+  {
+    "event": "M101-0",
+    "journey": "M101",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 514,
+    "visible_day": "2026-06-12",
+    "revision": 1
+  },
+  {
+    "event": "M101-1",
+    "journey": "M101",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 555,
+    "clock_min_hi": 561,
+    "visible_day": "2026-06-12",
+    "revision": 1
+  },
+  {
+    "event": "M101-2",
+    "journey": "M101",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 898,
+    "clock_min_hi": 904,
+    "visible_day": "2026-06-12",
+    "revision": 1
+  },
+  {
+    "event": "M101-3",
+    "journey": "M101",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 939,
+    "clock_min_hi": 945,
+    "visible_day": "2026-06-12",
+    "revision": 1
+  },
+  {
+    "event": "M110-0",
+    "journey": "M110",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 515,
+    "visible_day": "2026-06-13",
+    "revision": 1
+  },
+  {
+    "event": "M110-1",
+    "journey": "M110",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 574,
+    "clock_min_hi": 581,
+    "visible_day": "2026-06-13",
+    "revision": 1
+  },
+  {
+    "event": "M110-2",
+    "journey": "M110",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 899,
+    "clock_min_hi": 906,
+    "visible_day": "2026-06-13",
+    "revision": 1
+  },
+  {
+    "event": "M110-3",
+    "journey": "M110",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 962,
+    "clock_min_hi": 969,
+    "visible_day": "2026-06-13",
+    "revision": 1
+  },
+  {
+    "event": "M111-0",
+    "journey": "M111",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 515,
+    "visible_day": "2026-06-13",
+    "revision": 1
+  },
+  {
+    "event": "M111-1",
+    "journey": "M111",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 556,
+    "clock_min_hi": 563,
+    "visible_day": "2026-06-13",
+    "revision": 1
+  },
+  {
+    "event": "M111-2",
+    "journey": "M111",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 899,
+    "clock_min_hi": 906,
+    "visible_day": "2026-06-13",
+    "revision": 1
+  },
+  {
+    "event": "M111-3",
+    "journey": "M111",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 941,
+    "clock_min_hi": 948,
+    "visible_day": "2026-06-13",
+    "revision": 1
+  },
+  {
+    "event": "M120-0",
+    "journey": "M120",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 512,
+    "visible_day": "2026-06-14",
+    "revision": 1
+  },
+  {
+    "event": "M120-1",
+    "journey": "M120",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 575,
+    "clock_min_hi": 579,
+    "visible_day": "2026-06-14",
+    "revision": 1
+  },
+  {
+    "event": "M120-2",
+    "journey": "M120",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 900,
+    "clock_min_hi": 904,
+    "visible_day": "2026-06-14",
+    "revision": 1
+  },
+  {
+    "event": "M120-3",
+    "journey": "M120",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 964,
+    "clock_min_hi": 968,
+    "visible_day": "2026-06-14",
+    "revision": 1
+  },
+  {
+    "event": "M121-0",
+    "journey": "M121",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 512,
+    "visible_day": "2026-06-14",
+    "revision": 1
+  },
+  {
+    "event": "M121-1",
+    "journey": "M121",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 557,
+    "clock_min_hi": 561,
+    "visible_day": "2026-06-14",
+    "revision": 1
+  },
+  {
+    "event": "M121-2",
+    "journey": "M121",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 900,
+    "clock_min_hi": 904,
+    "visible_day": "2026-06-14",
+    "revision": 1
+  },
+  {
+    "event": "M121-3",
+    "journey": "M121",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 943,
+    "clock_min_hi": 947,
+    "visible_day": "2026-06-14",
+    "revision": 1
+  },
+  {
+    "event": "M130-0",
+    "journey": "M130",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 513,
+    "visible_day": "2026-06-15",
+    "revision": 1
+  },
+  {
+    "event": "M130-1",
+    "journey": "M130",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 576,
+    "clock_min_hi": 581,
+    "visible_day": "2026-06-15",
+    "revision": 1
+  },
+  {
+    "event": "M130-2",
+    "journey": "M130",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 901,
+    "clock_min_hi": 906,
+    "visible_day": "2026-06-15",
+    "revision": 1
+  },
+  {
+    "event": "M130-3",
+    "journey": "M130",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 966,
+    "clock_min_hi": 971,
+    "visible_day": "2026-06-15",
+    "revision": 1
+  },
+  {
+    "event": "M131-0",
+    "journey": "M131",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 513,
+    "visible_day": "2026-06-15",
+    "revision": 1
+  },
+  {
+    "event": "M131-1",
+    "journey": "M131",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 558,
+    "clock_min_hi": 563,
+    "visible_day": "2026-06-15",
+    "revision": 1
+  },
+  {
+    "event": "M131-2",
+    "journey": "M131",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 901,
+    "clock_min_hi": 906,
+    "visible_day": "2026-06-15",
+    "revision": 1
+  },
+  {
+    "event": "M131-3",
+    "journey": "M131",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 945,
+    "clock_min_hi": 950,
+    "visible_day": "2026-06-15",
+    "revision": 1
+  },
+  {
+    "event": "M140-0",
+    "journey": "M140",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 514,
+    "visible_day": "2026-06-16",
+    "revision": 1
+  },
+  {
+    "event": "M140-1",
+    "journey": "M140",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 577,
+    "clock_min_hi": 583,
+    "visible_day": "2026-06-16",
+    "revision": 1
+  },
+  {
+    "event": "M140-2",
+    "journey": "M140",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 902,
+    "clock_min_hi": 908,
+    "visible_day": "2026-06-16",
+    "revision": 1
+  },
+  {
+    "event": "M140-3",
+    "journey": "M140",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 968,
+    "clock_min_hi": 974,
+    "visible_day": "2026-06-16",
+    "revision": 1
+  },
+  {
+    "event": "M141-0",
+    "journey": "M141",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 514,
+    "visible_day": "2026-06-16",
+    "revision": 1
+  },
+  {
+    "event": "M141-1",
+    "journey": "M141",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 559,
+    "clock_min_hi": 565,
+    "visible_day": "2026-06-16",
+    "revision": 1
+  },
+  {
+    "event": "M141-2",
+    "journey": "M141",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 902,
+    "clock_min_hi": 908,
+    "visible_day": "2026-06-16",
+    "revision": 1
+  },
+  {
+    "event": "M141-3",
+    "journey": "M141",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 947,
+    "clock_min_hi": 953,
+    "visible_day": "2026-06-16",
+    "revision": 1
+  },
+  {
+    "event": "M150-0",
+    "journey": "M150",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 515,
+    "visible_day": "2026-06-17",
+    "revision": 1
+  },
+  {
+    "event": "M150-1",
+    "journey": "M150",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 578,
+    "clock_min_hi": 585,
+    "visible_day": "2026-06-17",
+    "revision": 1
+  },
+  {
+    "event": "M150-2",
+    "journey": "M150",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 903,
+    "clock_min_hi": 910,
+    "visible_day": "2026-06-17",
+    "revision": 1
+  },
+  {
+    "event": "M150-3",
+    "journey": "M150",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 970,
+    "clock_min_hi": 977,
+    "visible_day": "2026-06-17",
+    "revision": 1
+  },
+  {
+    "event": "M151-0",
+    "journey": "M151",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 515,
+    "visible_day": "2026-06-17",
+    "revision": 1
+  },
+  {
+    "event": "M151-1",
+    "journey": "M151",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 560,
+    "clock_min_hi": 567,
+    "visible_day": "2026-06-17",
+    "revision": 1
+  },
+  {
+    "event": "M151-2",
+    "journey": "M151",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 903,
+    "clock_min_hi": 910,
+    "visible_day": "2026-06-17",
+    "revision": 1
+  },
+  {
+    "event": "M151-3",
+    "journey": "M151",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 949,
+    "clock_min_hi": 956,
+    "visible_day": "2026-06-17",
+    "revision": 1
+  },
+  {
+    "event": "M160-0",
+    "journey": "M160",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 512,
+    "visible_day": "2026-06-18",
+    "revision": 1
+  },
+  {
+    "event": "M160-1",
+    "journey": "M160",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 579,
+    "clock_min_hi": 583,
+    "visible_day": "2026-06-18",
+    "revision": 1
+  },
+  {
+    "event": "M160-2",
+    "journey": "M160",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 904,
+    "clock_min_hi": 908,
+    "visible_day": "2026-06-18",
+    "revision": 1
+  },
+  {
+    "event": "M160-3",
+    "journey": "M160",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 972,
+    "clock_min_hi": 976,
+    "visible_day": "2026-06-18",
+    "revision": 1
+  },
+  {
+    "event": "M161-0",
+    "journey": "M161",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 512,
+    "visible_day": "2026-06-18",
+    "revision": 1
+  },
+  {
+    "event": "M161-1",
+    "journey": "M161",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 561,
+    "clock_min_hi": 565,
+    "visible_day": "2026-06-18",
+    "revision": 1
+  },
+  {
+    "event": "M161-2",
+    "journey": "M161",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 904,
+    "clock_min_hi": 908,
+    "visible_day": "2026-06-18",
+    "revision": 1
+  },
+  {
+    "event": "M161-3",
+    "journey": "M161",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 951,
+    "clock_min_hi": 955,
+    "visible_day": "2026-06-18",
+    "revision": 1
+  },
+  {
+    "event": "M170-0",
+    "journey": "M170",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 513,
+    "visible_day": "2026-06-19",
+    "revision": 1
+  },
+  {
+    "event": "M170-1",
+    "journey": "M170",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 563,
+    "clock_min_hi": 568,
+    "visible_day": "2026-06-19",
+    "revision": 1
+  },
+  {
+    "event": "M170-2",
+    "journey": "M170",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 905,
+    "clock_min_hi": 910,
+    "visible_day": "2026-06-19",
+    "revision": 1
+  },
+  {
+    "event": "M170-3",
+    "journey": "M170",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 974,
+    "clock_min_hi": 979,
+    "visible_day": "2026-06-19",
+    "revision": 1
+  },
+  {
+    "event": "M171-0",
+    "journey": "M171",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 513,
+    "visible_day": "2026-06-19",
+    "revision": 1
+  },
+  {
+    "event": "M171-1",
+    "journey": "M171",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 545,
+    "clock_min_hi": 550,
+    "visible_day": "2026-06-19",
+    "revision": 1
+  },
+  {
+    "event": "M171-2",
+    "journey": "M171",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 905,
+    "clock_min_hi": 910,
+    "visible_day": "2026-06-19",
+    "revision": 1
+  },
+  {
+    "event": "M171-3",
+    "journey": "M171",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 953,
+    "clock_min_hi": 958,
+    "visible_day": "2026-06-19",
+    "revision": 1
+  },
+  {
+    "event": "M180-0",
+    "journey": "M180",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 514,
+    "visible_day": "2026-06-20",
+    "revision": 1
+  },
+  {
+    "event": "M180-1",
+    "journey": "M180",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 564,
+    "clock_min_hi": 570,
+    "visible_day": "2026-06-20",
+    "revision": 1
+  },
+  {
+    "event": "M180-2",
+    "journey": "M180",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 906,
+    "clock_min_hi": 912,
+    "visible_day": "2026-06-20",
+    "revision": 1
+  },
+  {
+    "event": "M180-3",
+    "journey": "M180",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 976,
+    "clock_min_hi": 982,
+    "visible_day": "2026-06-20",
+    "revision": 1
+  },
+  {
+    "event": "M181-0",
+    "journey": "M181",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 514,
+    "visible_day": "2026-06-20",
+    "revision": 1
+  },
+  {
+    "event": "M181-1",
+    "journey": "M181",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 546,
+    "clock_min_hi": 552,
+    "visible_day": "2026-06-20",
+    "revision": 1
+  },
+  {
+    "event": "M181-2",
+    "journey": "M181",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 906,
+    "clock_min_hi": 912,
+    "visible_day": "2026-06-20",
+    "revision": 1
+  },
+  {
+    "event": "M181-3",
+    "journey": "M181",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 955,
+    "clock_min_hi": 961,
+    "visible_day": "2026-06-20",
+    "revision": 1
+  },
+  {
+    "event": "M190-0",
+    "journey": "M190",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 515,
+    "visible_day": "2026-06-21",
+    "revision": 1
+  },
+  {
+    "event": "M190-1",
+    "journey": "M190",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 565,
+    "clock_min_hi": 572,
+    "visible_day": "2026-06-21",
+    "revision": 1
+  },
+  {
+    "event": "M190-2",
+    "journey": "M190",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 907,
+    "clock_min_hi": 914,
+    "visible_day": "2026-06-21",
+    "revision": 1
+  },
+  {
+    "event": "M190-3",
+    "journey": "M190",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 940,
+    "clock_min_hi": 947,
+    "visible_day": "2026-06-21",
+    "revision": 1
+  },
+  {
+    "event": "M191-0",
+    "journey": "M191",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 515,
+    "visible_day": "2026-06-21",
+    "revision": 1
+  },
+  {
+    "event": "M191-1",
+    "journey": "M191",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 547,
+    "clock_min_hi": 554,
+    "visible_day": "2026-06-21",
+    "revision": 1
+  },
+  {
+    "event": "M191-2",
+    "journey": "M191",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 907,
+    "clock_min_hi": 914,
+    "visible_day": "2026-06-21",
+    "revision": 1
+  },
+  {
+    "event": "M191-2",
+    "journey": "M191",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 913,
+    "clock_min_hi": 921,
+    "visible_day": "2026-06-27",
+    "revision": 2
+  },
+  {
+    "event": "M191-3",
+    "journey": "M191",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 919,
+    "clock_min_hi": 926,
+    "visible_day": "2026-06-21",
+    "revision": 1
+  },
+  {
+    "event": "M191-3",
+    "journey": "M191",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 925,
+    "clock_min_hi": 933,
+    "visible_day": "2026-06-27",
+    "revision": 2
+  },
+  {
+    "event": "M200-0",
+    "journey": "M200",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 512,
+    "visible_day": "2026-06-22",
+    "revision": 1
+  },
+  {
+    "event": "M200-1",
+    "journey": "M200",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 566,
+    "clock_min_hi": 570,
+    "visible_day": "2026-06-22",
+    "revision": 1
+  },
+  {
+    "event": "M200-2",
+    "journey": "M200",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 908,
+    "clock_min_hi": 912,
+    "visible_day": "2026-06-22",
+    "revision": 1
+  },
+  {
+    "event": "M200-3",
+    "journey": "M200",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 942,
+    "clock_min_hi": 946,
+    "visible_day": "2026-06-22",
+    "revision": 1
+  },
+  {
+    "event": "M201-0",
+    "journey": "M201",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 512,
+    "visible_day": "2026-06-22",
+    "revision": 1
+  },
+  {
+    "event": "M201-1",
+    "journey": "M201",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 548,
+    "clock_min_hi": 552,
+    "visible_day": "2026-06-22",
+    "revision": 1
+  },
+  {
+    "event": "M201-2",
+    "journey": "M201",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 908,
+    "clock_min_hi": 912,
+    "visible_day": "2026-06-22",
+    "revision": 1
+  },
+  {
+    "event": "M201-3",
+    "journey": "M201",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 921,
+    "clock_min_hi": 925,
+    "visible_day": "2026-06-22",
+    "revision": 1
+  },
+  {
+    "event": "M210-0",
+    "journey": "M210",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 513,
+    "visible_day": "2026-06-23",
+    "revision": 1
+  },
+  {
+    "event": "M210-1",
+    "journey": "M210",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 567,
+    "clock_min_hi": 572,
+    "visible_day": "2026-06-23",
+    "revision": 1
+  },
+  {
+    "event": "M210-2",
+    "journey": "M210",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 909,
+    "clock_min_hi": 914,
+    "visible_day": "2026-06-23",
+    "revision": 1
+  },
+  {
+    "event": "M210-3",
+    "journey": "M210",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 944,
+    "clock_min_hi": 949,
+    "visible_day": "2026-06-23",
+    "revision": 1
+  },
+  {
+    "event": "M211-0",
+    "journey": "M211",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 513,
+    "visible_day": "2026-06-23",
+    "revision": 1
+  },
+  {
+    "event": "M211-1",
+    "journey": "M211",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 549,
+    "clock_min_hi": 554,
+    "visible_day": "2026-06-23",
+    "revision": 1
+  },
+  {
+    "event": "M211-2",
+    "journey": "M211",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 909,
+    "clock_min_hi": 914,
+    "visible_day": "2026-06-23",
+    "revision": 1
+  },
+  {
+    "event": "M211-3",
+    "journey": "M211",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 923,
+    "clock_min_hi": 928,
+    "visible_day": "2026-06-23",
+    "revision": 1
+  },
+  {
+    "event": "M220-0",
+    "journey": "M220",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 514,
+    "visible_day": "2026-06-24",
+    "revision": 1
+  },
+  {
+    "event": "M220-1",
+    "journey": "M220",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 568,
+    "clock_min_hi": 574,
+    "visible_day": "2026-06-24",
+    "revision": 1
+  },
+  {
+    "event": "M220-2",
+    "journey": "M220",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 910,
+    "clock_min_hi": 916,
+    "visible_day": "2026-06-24",
+    "revision": 1
+  },
+  {
+    "event": "M220-3",
+    "journey": "M220",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 946,
+    "clock_min_hi": 952,
+    "visible_day": "2026-06-24",
+    "revision": 1
+  },
+  {
+    "event": "M221-0",
+    "journey": "M221",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 514,
+    "visible_day": "2026-06-24",
+    "revision": 1
+  },
+  {
+    "event": "M221-1",
+    "journey": "M221",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 550,
+    "clock_min_hi": 556,
+    "visible_day": "2026-06-24",
+    "revision": 1
+  },
+  {
+    "event": "M221-2",
+    "journey": "M221",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 910,
+    "clock_min_hi": 916,
+    "visible_day": "2026-06-24",
+    "revision": 1
+  },
+  {
+    "event": "M221-3",
+    "journey": "M221",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 925,
+    "clock_min_hi": 931,
+    "visible_day": "2026-06-24",
+    "revision": 1
+  },
+  {
+    "event": "M230-0",
+    "journey": "M230",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 515,
+    "visible_day": "2026-06-25",
+    "revision": 1
+  },
+  {
+    "event": "M230-1",
+    "journey": "M230",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 569,
+    "clock_min_hi": 576,
+    "visible_day": "2026-06-25",
+    "revision": 1
+  },
+  {
+    "event": "M230-2",
+    "journey": "M230",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 888,
+    "clock_min_hi": 895,
+    "visible_day": "2026-06-25",
+    "revision": 1
+  },
+  {
+    "event": "M230-3",
+    "journey": "M230",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 948,
+    "clock_min_hi": 955,
+    "visible_day": "2026-06-25",
+    "revision": 1
+  },
+  {
+    "event": "M231-0",
+    "journey": "M231",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 515,
+    "visible_day": "2026-06-25",
+    "revision": 1
+  },
+  {
+    "event": "M231-1",
+    "journey": "M231",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 551,
+    "clock_min_hi": 558,
+    "visible_day": "2026-06-25",
+    "revision": 1
+  },
+  {
+    "event": "M231-2",
+    "journey": "M231",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 888,
+    "clock_min_hi": 895,
+    "visible_day": "2026-06-25",
+    "revision": 1
+  },
+  {
+    "event": "M231-2",
+    "journey": "M231",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 894,
+    "clock_min_hi": 902,
+    "visible_day": "2026-07-01",
+    "revision": 2
+  },
+  {
+    "event": "M231-3",
+    "journey": "M231",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 927,
+    "clock_min_hi": 934,
+    "visible_day": "2026-06-25",
+    "revision": 1
+  },
+  {
+    "event": "M231-3",
+    "journey": "M231",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 933,
+    "clock_min_hi": 941,
+    "visible_day": "2026-07-01",
+    "revision": 2
+  },
+  {
+    "event": "M240-0",
+    "journey": "M240",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 512,
+    "visible_day": "2026-06-26",
+    "revision": 1
+  },
+  {
+    "event": "M240-1",
+    "journey": "M240",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 570,
+    "clock_min_hi": 574,
+    "visible_day": "2026-06-26",
+    "revision": 1
+  },
+  {
+    "event": "M240-2",
+    "journey": "M240",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 889,
+    "clock_min_hi": 893,
+    "visible_day": "2026-06-26",
+    "revision": 1
+  },
+  {
+    "event": "M240-3",
+    "journey": "M240",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 950,
+    "clock_min_hi": 954,
+    "visible_day": "2026-06-26",
+    "revision": 1
+  },
+  {
+    "event": "M241-0",
+    "journey": "M241",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 512,
+    "visible_day": "2026-06-26",
+    "revision": 1
+  },
+  {
+    "event": "M241-1",
+    "journey": "M241",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 552,
+    "clock_min_hi": 556,
+    "visible_day": "2026-06-26",
+    "revision": 1
+  },
+  {
+    "event": "M241-2",
+    "journey": "M241",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 889,
+    "clock_min_hi": 893,
+    "visible_day": "2026-06-26",
+    "revision": 1
+  },
+  {
+    "event": "M241-3",
+    "journey": "M241",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 929,
+    "clock_min_hi": 933,
+    "visible_day": "2026-06-26",
+    "revision": 1
+  },
+  {
+    "event": "M250-0",
+    "journey": "M250",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 513,
+    "visible_day": "2026-06-27",
+    "revision": 1
+  },
+  {
+    "event": "M250-1",
+    "journey": "M250",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 571,
+    "clock_min_hi": 576,
+    "visible_day": "2026-06-27",
+    "revision": 1
+  },
+  {
+    "event": "M250-2",
+    "journey": "M250",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 890,
+    "clock_min_hi": 895,
+    "visible_day": "2026-06-27",
+    "revision": 1
+  },
+  {
+    "event": "M250-3",
+    "journey": "M250",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 952,
+    "clock_min_hi": 957,
+    "visible_day": "2026-06-27",
+    "revision": 1
+  },
+  {
+    "event": "M251-0",
+    "journey": "M251",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 513,
+    "visible_day": "2026-06-27",
+    "revision": 1
+  },
+  {
+    "event": "M251-1",
+    "journey": "M251",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 553,
+    "clock_min_hi": 558,
+    "visible_day": "2026-06-27",
+    "revision": 1
+  },
+  {
+    "event": "M251-2",
+    "journey": "M251",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 890,
+    "clock_min_hi": 895,
+    "visible_day": "2026-06-27",
+    "revision": 1
+  },
+  {
+    "event": "M251-3",
+    "journey": "M251",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 931,
+    "clock_min_hi": 936,
+    "visible_day": "2026-06-27",
+    "revision": 1
+  },
+  {
+    "event": "M261-0",
+    "journey": "M261",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 514,
+    "visible_day": "2026-06-28",
+    "revision": 1
+  },
+  {
+    "event": "M261-1",
+    "journey": "M261",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 554,
+    "clock_min_hi": 560,
+    "visible_day": "2026-06-28",
+    "revision": 1
+  },
+  {
+    "event": "M261-2",
+    "journey": "M261",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 891,
+    "clock_min_hi": 897,
+    "visible_day": "2026-06-28",
+    "revision": 1
+  },
+  {
+    "event": "M261-3",
+    "journey": "M261",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 933,
+    "clock_min_hi": 939,
+    "visible_day": "2026-06-28",
+    "revision": 1
+  },
+  {
+    "event": "M270-0",
+    "journey": "M270",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 515,
+    "visible_day": "2026-06-29",
+    "revision": 1
+  },
+  {
+    "event": "M270-1",
+    "journey": "M270",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 573,
+    "clock_min_hi": 580,
+    "visible_day": "2026-06-29",
+    "revision": 1
+  },
+  {
+    "event": "M270-2",
+    "journey": "M270",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 892,
+    "clock_min_hi": 899,
+    "visible_day": "2026-06-29",
+    "revision": 1
+  },
+  {
+    "event": "M270-3",
+    "journey": "M270",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 956,
+    "clock_min_hi": 963,
+    "visible_day": "2026-06-29",
+    "revision": 1
+  },
+  {
+    "event": "M271-0",
+    "journey": "M271",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 515,
+    "visible_day": "2026-06-29",
+    "revision": 1
+  },
+  {
+    "event": "M271-1",
+    "journey": "M271",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 555,
+    "clock_min_hi": 562,
+    "visible_day": "2026-06-29",
+    "revision": 1
+  },
+  {
+    "event": "M271-2",
+    "journey": "M271",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 892,
+    "clock_min_hi": 899,
+    "visible_day": "2026-06-29",
+    "revision": 1
+  },
+  {
+    "event": "M271-3",
+    "journey": "M271",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 935,
+    "clock_min_hi": 942,
+    "visible_day": "2026-06-29",
+    "revision": 1
+  },
+  {
+    "event": "M280-0",
+    "journey": "M280",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 512,
+    "visible_day": "2026-06-30",
+    "revision": 1
+  },
+  {
+    "event": "M280-1",
+    "journey": "M280",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 574,
+    "clock_min_hi": 578,
+    "visible_day": "2026-06-30",
+    "revision": 1
+  },
+  {
+    "event": "M280-2",
+    "journey": "M280",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 893,
+    "clock_min_hi": 897,
+    "visible_day": "2026-06-30",
+    "revision": 1
+  },
+  {
+    "event": "M280-3",
+    "journey": "M280",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 958,
+    "clock_min_hi": 962,
+    "visible_day": "2026-06-30",
+    "revision": 1
+  },
+  {
+    "event": "M281-0",
+    "journey": "M281",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 512,
+    "visible_day": "2026-06-30",
+    "revision": 1
+  },
+  {
+    "event": "M281-1",
+    "journey": "M281",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 556,
+    "clock_min_hi": 560,
+    "visible_day": "2026-06-30",
+    "revision": 1
+  },
+  {
+    "event": "M281-2",
+    "journey": "M281",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 893,
+    "clock_min_hi": 897,
+    "visible_day": "2026-06-30",
+    "revision": 1
+  },
+  {
+    "event": "M281-3",
+    "journey": "M281",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 937,
+    "clock_min_hi": 941,
+    "visible_day": "2026-06-30",
+    "revision": 1
+  },
+  {
+    "event": "M290-0",
+    "journey": "M290",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 513,
+    "visible_day": "2026-07-01",
+    "revision": 1
+  },
+  {
+    "event": "M290-1",
+    "journey": "M290",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 575,
+    "clock_min_hi": 580,
+    "visible_day": "2026-07-01",
+    "revision": 1
+  },
+  {
+    "event": "M290-2",
+    "journey": "M290",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 894,
+    "clock_min_hi": 899,
+    "visible_day": "2026-07-01",
+    "revision": 1
+  },
+  {
+    "event": "M290-3",
+    "journey": "M290",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 960,
+    "clock_min_hi": 965,
+    "visible_day": "2026-07-01",
+    "revision": 1
+  },
+  {
+    "event": "M291-0",
+    "journey": "M291",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 513,
+    "visible_day": "2026-07-01",
+    "revision": 1
+  },
+  {
+    "event": "M291-1",
+    "journey": "M291",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 557,
+    "clock_min_hi": 562,
+    "visible_day": "2026-07-01",
+    "revision": 1
+  },
+  {
+    "event": "M291-2",
+    "journey": "M291",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 894,
+    "clock_min_hi": 899,
+    "visible_day": "2026-07-01",
+    "revision": 1
+  },
+  {
+    "event": "M300-0",
+    "journey": "M300",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 514,
+    "visible_day": "2026-07-02",
+    "revision": 1
+  },
+  {
+    "event": "M300-1",
+    "journey": "M300",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 576,
+    "clock_min_hi": 582,
+    "visible_day": "2026-07-02",
+    "revision": 1
+  },
+  {
+    "event": "M300-2",
+    "journey": "M300",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 895,
+    "clock_min_hi": 901,
+    "visible_day": "2026-07-02",
+    "revision": 1
+  },
+  {
+    "event": "M300-3",
+    "journey": "M300",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 962,
+    "clock_min_hi": 968,
+    "visible_day": "2026-07-02",
+    "revision": 1
+  },
+  {
+    "event": "M301-0",
+    "journey": "M301",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 514,
+    "visible_day": "2026-07-02",
+    "revision": 1
+  },
+  {
+    "event": "M301-1",
+    "journey": "M301",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 558,
+    "clock_min_hi": 564,
+    "visible_day": "2026-07-02",
+    "revision": 1
+  },
+  {
+    "event": "M301-2",
+    "journey": "M301",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 895,
+    "clock_min_hi": 901,
+    "visible_day": "2026-07-02",
+    "revision": 1
+  },
+  {
+    "event": "M301-3",
+    "journey": "M301",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 941,
+    "clock_min_hi": 947,
+    "visible_day": "2026-07-02",
+    "revision": 1
+  },
+  {
+    "event": "M310-0",
+    "journey": "M310",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 515,
+    "visible_day": "2026-07-03",
+    "revision": 1
+  },
+  {
+    "event": "M310-1",
+    "journey": "M310",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 577,
+    "clock_min_hi": 584,
+    "visible_day": "2026-07-03",
+    "revision": 1
+  },
+  {
+    "event": "M310-2",
+    "journey": "M310",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 896,
+    "clock_min_hi": 903,
+    "visible_day": "2026-07-03",
+    "revision": 1
+  },
+  {
+    "event": "M310-3",
+    "journey": "M310",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 964,
+    "clock_min_hi": 971,
+    "visible_day": "2026-07-03",
+    "revision": 1
+  },
+  {
+    "event": "M311-0",
+    "journey": "M311",
+    "kind": "到交车点",
+    "device": "A",
+    "clock_min_lo": 508,
+    "clock_min_hi": 515,
+    "visible_day": "2026-07-03",
+    "revision": 1
+  },
+  {
+    "event": "M311-1",
+    "journey": "M311",
+    "kind": "可启程",
+    "device": "B",
+    "clock_min_lo": 559,
+    "clock_min_hi": 566,
+    "visible_day": "2026-07-03",
+    "revision": 1
+  },
+  {
+    "event": "M311-2",
+    "journey": "M311",
+    "kind": "结束游览",
+    "device": "C",
+    "clock_min_lo": 896,
+    "clock_min_hi": 903,
+    "visible_day": "2026-07-03",
+    "revision": 1
+  },
+  {
+    "event": "M311-3",
+    "journey": "M311",
+    "kind": "可离开",
+    "device": "A",
+    "clock_min_lo": 943,
+    "clock_min_hi": 950,
+    "visible_day": "2026-07-03",
+    "revision": 1
+  }
+]

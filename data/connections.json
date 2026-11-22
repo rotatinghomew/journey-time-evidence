@@ -1,0 +1,22 @@
+[
+  {
+    "area": "西湾",
+    "window": "上午",
+    "departure": 998
+  },
+  {
+    "area": "西湾",
+    "window": "傍晚",
+    "departure": 1010
+  },
+  {
+    "area": "东岸",
+    "window": "上午",
+    "departure": 995
+  },
+  {
+    "area": "东岸",
+    "window": "傍晚",
+    "departure": 1025
+  }
+]

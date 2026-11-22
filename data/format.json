@@ -1,0 +1,88 @@
+{
+  "fields": {
+    "journeys": [
+      "journey",
+      "day",
+      "service",
+      "version",
+      "area",
+      "pickup",
+      "return_kind",
+      "distance",
+      "party",
+      "window"
+    ],
+    "matched_groups": [
+      "pair",
+      "journey",
+      "basis",
+      "weight"
+    ],
+    "timestamps": [
+      "event",
+      "journey",
+      "kind",
+      "device",
+      "clock_min_lo",
+      "clock_min_hi",
+      "visible_day",
+      "revision"
+    ],
+    "calibrations": [
+      "day",
+      "device",
+      "offset_lo",
+      "offset_hi",
+      "visible_day",
+      "revision"
+    ],
+    "statements": [
+      "statement",
+      "claim",
+      "minutes",
+      "reliability",
+      "confidence",
+      "version",
+      "area",
+      "page"
+    ],
+    "pages": [
+      "page",
+      "route",
+      "areas",
+      "show_exceptions",
+      "accepted"
+    ],
+    "connections": [
+      "area",
+      "window",
+      "departure"
+    ]
+  },
+  "references": [
+    [
+      "matched_groups",
+      "journey",
+      "journeys",
+      "journey"
+    ],
+    [
+      "timestamps",
+      "journey",
+      "journeys",
+      "journey"
+    ],
+    [
+      "pages",
+      "accepted",
+      "statements",
+      "statement"
+    ],
+    [
+      "statements",
+      "page",
+      "pages",
+      "page"
+    ]
+  ]
+}

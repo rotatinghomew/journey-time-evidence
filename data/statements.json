@@ -1,0 +1,32 @@
+[
+  {
+    "statement": "s1",
+    "claim": "典型时间节省",
+    "minutes": 30,
+    "reliability": 0.5,
+    "confidence": 0.9,
+    "version": "v1",
+    "area": "西湾",
+    "page": "home"
+  },
+  {
+    "statement": "s2",
+    "claim": "最短返程缓冲",
+    "minutes": 45,
+    "reliability": 0.9,
+    "confidence": 0.9,
+    "version": "v2",
+    "area": "东岸",
+    "page": "detail"
+  },
+  {
+    "statement": "s3",
+    "claim": "典型时间节省",
+    "minutes": 25,
+    "reliability": 0.5,
+    "confidence": 0.9,
+    "version": "v2",
+    "area": "双区",
+    "page": "home"
+  }
+]
